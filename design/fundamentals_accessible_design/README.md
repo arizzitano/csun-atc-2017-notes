@@ -9,3 +9,4 @@ Deque Systems
 - [Images](fundamentals_images.md)
 - [Color Contrast](fundamentals_color_contrast.md)
 - [Page Structure](fundamentals_page_structure.md)
+- [Navigation](fundamentals_navigation.md)
