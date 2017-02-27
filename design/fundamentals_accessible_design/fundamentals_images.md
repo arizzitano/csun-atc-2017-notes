@@ -35,3 +35,5 @@
 
 ## Exercise
 - [Alt text exercise](images_exercise.JPG)
+- Graph: how to describe? Can it be linked to the table below? Say "described by table below"? aria-describedby?
+- Logo: should we describe the crown? This is kind of a gray area
