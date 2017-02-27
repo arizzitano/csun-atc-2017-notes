@@ -35,5 +35,5 @@
 - Pattern libraries rarely work for everyone out of the box
 
 ## Design Exercise
-- Visual Information - 1
-- Visual Information - 2
+- [Visual Information - 1](visual_information_1.JPG)
+- [Visual Information - 2](visual_information_2.JPG)
