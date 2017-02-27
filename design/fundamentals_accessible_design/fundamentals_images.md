@@ -13,3 +13,4 @@
 
 ## Linked Images
 - Need alt text!! Otherwise SR user doesn't know where it goes
+- Alt text should focus on purpose of link
