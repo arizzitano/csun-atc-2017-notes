@@ -1,4 +1,6 @@
 # Fundamentals of Accessible Design
+Caitlin Geier, Matthew Isner, Dennis Lembree
+Deque Systems
 2/27/2017
 
 ## Visual Information
@@ -20,6 +22,8 @@
 - Screen reader users can hear it's a link
 - Difference b/w link and body text?
 - Can you tell where it goes?
+- Should skip links be treated differently?
+- Deque: thicker left border on content section to indicate focus, only for skip links
 
 ### Visual Focus
 - Focus indicator is visual marker that calls attn to element on web page which keyboard has in focus.
@@ -33,3 +37,4 @@
 - Pattern libraries are your friend!!
 - Consistent link design, visible focus, use of color, language, etc.
 - Good examples of pattern libraries: ebay mind, salesforce lightning design, us web design standards, style tiles
+- Pattern libraries rarely work for everyone out of the box
