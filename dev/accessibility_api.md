@@ -1,6 +1,7 @@
 # Introduction to the Accessibility API
 
 David MacDonald, CanAdapt
+
 http://davidmacd.com/slides/csun/CanAdapt-what-is-the-accessible-API.pdf
 
 ## History
