@@ -8,10 +8,7 @@ Volker Sorge, Progressive Accessibility Solutions, Ltd
 
 ## Background
 - Diagrams are an important teaching means in STEM
-- Communicate data in a means that tJohn Gardner
-ViewPlusTechnologies Inc.
-Volker Sorge
-Progressive Accessibility Solutions, Ltdext cannot
+- Communicate data in a means that text cannot
 - Fully automatic to reduce need for human intervention
 - a11y is key to inclusive education
 - avoid additional hurdles for authors and readers
@@ -35,4 +32,3 @@ Progressive Accessibility Solutions, Ltdext cannot
 ## Physics Diagrams
 - same means of image analysis
 - circuits have semantic information attached within svg doc
-
